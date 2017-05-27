@@ -1,0 +1,7 @@
+id=MagicGApps
+name=MagicGApps
+version=2017.5.26-ARM
+versionCode=2017526
+author=VR25
+description=[ARM] Systemless implementation of GApps with additional features.
+template=3
