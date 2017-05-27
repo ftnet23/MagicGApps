@@ -1,7 +1,7 @@
 id=MagicGApps
-name=MagicGApps
+name=MagicGApps [7.1.x]
 version=2017.5.26-ARM
 versionCode=2017526
 author=VR25
-description=[ARM] Systemless implementation of GApps with additional features.
+description=Systemless implementation of GApps with additional features. Official xda thread: https://forum.xda-developers.com/apps/magisk/module-systemless-beansgapps-mini-7-1-x-t3611362
 template=3
