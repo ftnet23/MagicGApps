@@ -16,7 +16,8 @@ Google App
 
 Nova Launcher
 
-*** If you find Google Play Services or any other app force closing after installing this module, just ignore it. Everything will normalize as you set up Android. A reboot afterwards is recommended. ***
+
+* If you find Google Play Services or any other app force closing after installing this module, just ignore it. Everything will normalize as you set up Android. A reboot afterwards is recommended. *
 
 
 Credits:
